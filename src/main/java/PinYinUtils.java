@@ -106,6 +106,9 @@ public class PinYinUtils {
 
         String result = null;
 
+
+
+
         String createStart = "CREATE TABLE `";
 
         String createEnd = ") ";
